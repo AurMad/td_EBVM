@@ -1,0 +1,553 @@
+---
+title: "Outils et méthodes pour la médecine factuelle"
+author: "Aurélien Madouasse"
+institute: "Oniris VetAgroBio"
+lang: fr
+format: 
+  revealjs:
+    incremental: true
+    slide-number: c/t
+    show-slide-number: all
+    logo: figs/LOGO ONIRIS VetAgroBio RVB_grand.png
+    theme: [simple, style.scss]
+title-slide-attributes:
+    data-background-image: "figs/cow_scientist_black_and_white.png"
+    data-background-size: contain
+    data-background-opacity: "0.03"
+editor: source
+---
+
+## A propos
+
+Ce document constitue le support d'une séance de travaux dirigés à destination des étudiants vétérinaires de 5$^{ème}$ année d'[Oniris](https://www.oniris-nantes.fr/).
+
+Des informations complémentaires sont disponibles dans le document intitulé *Introduction à la médecine factuelle* rédigé avec Raphaël Guatteo et disponible à l'adresse suivante : <https://aurmad.github.io/medecine_factuelle/>.
+
+## Objectifs pédagogiques
+
+::: nonincremental
+A la fin de cette séance, vous devez être capable de :
+
+-   Donner une définition de la médecine factuelle
+-   Formuler une question en utilisant l'acronyme PICO
+-   Connaître les bases de données principales pour l'identification des ressources bibliographiques pertinentes
+-   Effectuer une recherche dans PubMed
+-   Evaluer la qualité des sources bibliographiques trouvées
+-   Stocker des références bibliographiques dans un logiciel des gestion bibliographique
+-   Citer des références bibliographiques dans un logiciel de traitement de texte
+:::
+
+# Définition et étapes {background-image="figs/cow_scientist_black_and_white.png" background-size="600px" style="text-align: center;" background-opacity="0.03"}
+
+## Qu'est ce que la médecine factuelle ?
+
+-   **Démarche** consistant à **incorporer** à la **pratique clinique** les **meilleures connaissances** disponibles afin de prendre, à date, les **meilleures décisions** (notamment thérapeutiques) possibles sur la base des dernières avancées scientifiques.
+
+-   Définition la plus fréquemment citée donnée par Sackett et al.[^1] :
+
+    -   *Evidence-based medicine \[...\] is the conscientious, explicit and judicious use of current best evidence in making decisions about the care of individual patients.*
+
+-   Synonymes : *médecine basée sur les preuves*, *médecine fondée sur les preuves*
+
+-   En anglais : *evidence-based veterinary medicine* (**EBVM**)
+
+[^1]: Sackett, D. L., W. M. C. Rosenberg, J. A. M. Gray, R. B. Haynes, and W. S. Richardson. 1996. “Evidence Based Medicine: What It Is and What It Isn’t.” BMJ 312: 71–72. https://doi.org/10.1136/bmj.312.7023.71. 
+
+## Les 5 étapes de la démarche EBVM
+
+1.  Formuler une question précise
+2.  Trouver les meilleures données / informations pour répondre à cette question
+3.  Evaluer les information trouvées
+4.  Intégrer le résultat de l'évaluation à sa pratique
+5.  Evaluer la performance
+
+- *Nous n'aborderons ici que les étapes 1 à 3.*
+
+# Formuler une question {background-image="figs/cow_scientist_black_and_white.png" background-size="600px" style="text-align: center;" background-opacity="0.03"}
+
+## Formuler une question PICO
+
+-   Objectif : formuler une question précise qui sera utilisée pour trouver les informations pertinentes, notamment dans les bases de données scientifiques
+
+-   Pour la construction de la question, utilisation de l'acronyme **PICO** :
+
+    -   **P :** *Patient ou Population*
+    -   **I :** *Intervention*
+    -   **C :** *Comparaison*
+    -   **O :** *Outcome*
+
+## 
+
+::: nonincremental
+::: {.callout-note appearance="simple"}
+## A vous de jouer !
+
+-   Rendez-vous sur le site [BestBETs for Vets](https://bestbetsforvets.org/)
+-   Sélectionnez un **BET**
+-   Regardez comment le scénario clinique a été traduit en PICO
+:::
+
+![](figs/BestBETsforVets.png){fig-align="center" height="450px"}
+:::
+
+## 
+
+::: nonincremental
+::: {.callout-note appearance="simple"}
+## A vous de jouer !
+
+-   Construisez une question PICO à partir d'une situation rencontrée en stage ou en clinique.
+:::
+:::
+
+# Trouver les informations {background-image="figs/cow_scientist_black_and_white.png" background-size="600px" style="text-align: center;" background-opacity="0.03"}
+
+## Bases de données
+
+-   Recherche de documents dans des bases de données scientifiques
+    -   Bases de données : agrègent des documents (articles, rapports, autres) publiés par diverses sources (journaux, universités, organisations officielles)
+    -   Sources indexées différentes selon la base de données
+    -   Accès parfois payant
+
+## PubMed
+
+-   <https://pubmed.ncbi.nlm.nih.gov/>
+-   Articles et ouvrages en sciences de la vie et médecine
+-   Interrogation gratuite
+-   Possibilité de construire des requêtes structurées
+-   Voir <https://pico.vet/> pour la traduction de PICO en requête PubMed
+
+::: fragment
+![](figs/PubMed.png){fig-align="center" height="350"}
+:::
+
+## Google Scholar
+
+-   <https://scholar.google.com/>
+-   Vaste répertoire de sources référencées
+-   Interrogation gratuite
+-   Possibilité limitée de construire des requêtes structurées
+-   Résultats fournis variables selon localisation, historique de recherche...
+
+::: fragment
+![](figs/Google_Scholar.png){fig-align="center" height="350"}
+:::
+
+## Autres bases de données
+
+-   [Web of Science](https://www.webofscience.com/) : l'une des bases de données les plus complètes. Appartient à Clarivate.
+-   [Science Direct](https://www.sciencedirect.com/) : base de données et accès aux ressources de l'éditeur Elsevier.
+-   [Scopus](https://www.scopus.com/) : base de données de l'éditeur Elsevier. Inclut plus de ressources que Science Direct, notamment des documents non édités par Elsevier.
+-   [CAB abstracts](https://www.cabdirect.org/cabdirect/search/?searchtype=advance-search) : très complète en ce qui concerne les sciences vétérinaires. Accès payant.
+
+::: fragment
+::: nonincremental
+::: callout-note
+-   Profitez de votre statut d'étudiant à Oniris pour explorer les différentes bases de données disponibles et consulter les ressources auxquelles l'école est abonnée.
+
+-   <https://www.oniris-nantes.fr/accueil/centre-de-documentation/ressources-documentaires/>
+:::
+:::
+:::
+
+## Trouver des informations avec PubMed
+
+::: nonincremental
+-   Saisir une requête avec les mots-clés souhaités dans la barre de recherche puis cliquer sur *Search*
+
+![](figs/PubMed_search_bar.png)
+:::
+
+## Trouver des informations avec PubMed
+
+::: nonincremental
+-   La requête retourne un certain nombre d'articles sous la forme suivante :
+
+![](figs/PubMed_simple_query_result.png)
+:::
+
+-   En cliquant sur *advanced*, il est possible de voir comment PubMed a interprété la requête.
+
+## Trouver des informations avec PubMed
+
+::: nonincremental
+![](figs/PubMed_advanced_query_result.png){fig-align="center" height="500px"}
+:::
+
+-   Cette requête peut être utilisée comme base pour affiner votre recherche.
+
+## 
+
+::: nonincremental
+::: {.callout-note appearance="simple"}
+## A vous de jouer !
+
+-   Dans la barre de recherche simple, effectuez une recherche PubMed à partir de la question PICO construite plus haut
+
+-   Dans la fenêtre de résultats, cliquez sur *Advanced*
+
+-   Regardez comment PubMed combine différents mots-clés
+
+    -   A quoi servent les [booléens](https://fr.wikipedia.org/wiki/Bool%C3%A9en) AND, OR et NOT ?
+    -   Comment sont placées les parenthèses ?
+:::
+:::
+
+## Exporter les résultats de recherche PubMed
+
+::: nonincremental
+-   Il est possible d'exporter les résultats retournés par PubMed pour une utilisation ultérieure.
+    -   Cliquer sur *Send to* puis, dans la liste déroulante, sur *Citation manager*.
+
+![](figs/PubMed_export.png)
+:::
+
+## 
+
+::: nonincremental
+::: {.callout-note appearance="simple"}
+## A vous de jouer !
+
+-   Exportez la liste des références que vous avez trouvées.
+
+-   Vérifiez qu'à l'issue de cette opération, un fichier texte contenant vos références a été téléchargé sur votre ordinateur.
+:::
+:::
+
+# Evaluer les informations{background-image="figs/cow_scientist_black_and_white.png" background-size="600px" style="text-align: center;" background-opacity="0.03"}
+
+## Un exemple
+
+::: fragment
+::: nonincremental
+-   Considérez l'article suivant par [Swinkels et al. (2016)](https://www.sciencedirect.com/science/article/pii/S0022030213003858)
+
+![](figs/Swinkel2013_JDS.png)
+:::
+:::
+
+## 
+
+::: nonincremental
+::: {.callout-note appearance="simple"}
+## A vous de jouer !
+
+-   Dans quel journal cet article a-t-il été publié ?
+
+-   Connaissez-vous le processus ayant abouti à la publication ?
+:::
+:::
+
+## Qu'est-ce que le *peer-review* ?
+
+![](figs/JournalDairyScience_aims.png)
+
+## Qu'est-ce que le *peer-review* ?
+
+-   *peer-review* = évaluation par les pairs[^2]
+    -   Évaluation des manuscrits par des experts anonymes sélectionnés par un des éditeurs du journal
+    -   Habituellement 2-3 experts par manuscrit
+    -   Rédaction d'un rapport
+    -   Synthèse des rapports et décision par l'éditeur : rejet / révision mineure / révision majeure / acceptation
+    -   Habituellement plusieurs allers-retours entre auteurs et relecteurs jusqu'à acceptation ou rejet
+
+[^2]: Plus de détails [ici](https://aurmad.github.io/medecine_factuelle/peer_review.html).
+
+## Evaluation du journal
+
+::: fragment
+::: {.callout-note appearance="simple"}
+## A vous de jouer !
+
+-   Le **Journal of Dairy Science** est-il un bon journal ?
+
+-   Comment savoir ?
+:::
+:::
+
+## Evaluations bibliométriques
+
+-   Évaluation des journaux, auteurs et articles basée principalement sur le nombre de citations engrangées par les articles.
+    -   Le nombre de citations dépend notamment de quelles sources (liste de journaux, autre) sont comptabilisées, et donc du producteur de l'évaluation
+    -   Indicatif, à prendre avec précaution
+
+## Impact factor
+
+::: fragment
+::: nonincremental
+-   Facteur d'impact (*impact factor* en anglais) = mesure la plus utilisée de la *qualité* des journaux
+
+$$
+ IF_a = \frac{Citations_a}{Publications_{a-2} + Publications_{a-1}}
+ $$
+
+-   Où $IF_a$ est le facteur d'impact pour l'année $a$, $Citations$ est le nombre de citations dans les journaux pris en compte pour l'évaluation pour l'année $a$ et $Publications$ est le nombre d'articles publiés dans la revue évaluée pour les années $a-1$ et $a-2$.
+:::
+:::
+
+::: fragment
+::: nonincremental
+-   Facteurs d'impact calculés par [Clarivate](https://clarivate.com/products/scientific-and-academic-research/research-analytics-evaluation-and-management-solutions/journal-citation-reports/)
+
+-   Parfois critiqué : ne dépend pas uniquement de la qualité des publications, compétition des journaux pour l'impact factor...
+
+-   Ne doit pas être l'unique facteur pris en compte lorsqu'on évalue un article
+:::
+:::
+
+## Nombre de citations d'un article
+
+::: fragment
+::: nonincremental
+-   Pour un article, on peut regarder le nombre de citations
+
+![](figs/citations_article_JDS.png)
+
+-   Attention au nombre d'années depuis la publication !
+-   Dépend des sources de citations prises en compte, de la thématique
+:::
+:::
+
+## *h-index*
+
+::: fragment
+::: nonincremental
+-   Pour un auteur, on peut regarder le *h-index*
+
+![](figs/h_index_Schukken.png)
+:::
+:::
+
+-   Cet auteur a un *h-index* de 103 (extrêmement élevé)
+    -   Lorsqu'on range les articles qu'il a publiés par ordre décroissant du nombre de citations, le 103$^{ème}$ article est cité au moins 103 fois
+
+## Types d'étude
+
+-   Prouver qu'un traitement a un effet préventif ou curatif sur une maladie requiert la mise en évidence d'un lien de causalité entre traitement et évolution de la maladie
+-   Les méthodes statistiques quantifient des forces d'association, sans garantie que ces associations soient causales
+-   Certaines types d'études sont plus favorables à l'identification de relations causales que d'autres
+
+::: fragment
+::: {.callout-note appearance="simple"}
+## A vous de jouer !
+
+-   Quels type d'études connaissez-vous ?
+
+-   Quels sont les facteurs favorables à l'identification de relations causales ?
+:::
+:::
+
+## Types d'étude
+
+::: framgent
+::: nonincremental
+-   Classification des types d'études proposé par Dohoo, Martin et Stryhn[^3] :
+
+![](figs/types_etudes.png){fig-align="center" height="250px"}
+:::
+:::
+
+-   Facteurs favorables à l'identification de relations causales :
+    -   Etudes expérimentales/d'intervention \> études observationnelles
+    -   Comparabilité des groupes traités et témoins $\rightarrow$ randomisation
+
+[^3]: Dohoo, Ian, Wayne Martin, and Henrik Stryhn. 2009. "Introduction to Observational Studies." In Veterinary Epidemiologic Research, 2nd edition. VER Inc. Version électronique du livre disponible [ici](https://projects.upei.ca/ver/).
+
+## Statistiques
+
+:::{.fragment}
+:::{.nonincremental}
+- Exemple de résultats d'une étude d'évaluation d'un traitement chez des animaux initialement malades
+
+|                  | Guéris | Non-guéris |
+|------------------|:-----:|:---------:|
+| **Traitement A** |  42   |    18     |
+| **Traitement B** |  20   |    20     |
+:::
+:::
+
+
+::: fragment
+::: {.callout-note appearance="simple"}
+## A vous de jouer !
+
+-   Existe-t-il une association statistique entre le traitement reçu et la guérison ?
+    - Quel test statistique ?
+    - Quelle hypothèse ?
+    - Comment faire ?
+:::
+:::
+
+
+## Statistiques
+
+:::{.fragment}
+:::{.nonincremental}
+- Principe des tests d'hypothèse :
+
+![](figs/etude_tableau_stat.png){fig-align="center" height="250px"}
+:::
+:::
+
+- **p-value :** probabilité d'observer les données si l'hypothèse nulle était vraie
+    - Avec un $\alpha$ de 5% : en l'absence d'association (si l'*hypothèse nulle est vraie*), on conclut à l'existence d'une association (*faux positif*) dans 5 cas sur 100
+- **puissance :** capacité à détecter les associations quand elles existent
+    - Dépend de l'importance de l'effet et de la taille d'échantillon
+
+
+# Gestion des références bibliographiques {background-image="figs/cow_scientist_black_and_white.png" background-size="600px" style="text-align: center;" background-opacity="0.03"}
+
+## Logiciels de gestion bibliographique
+
+-   Fonctions :
+    -   Stockage et consultation de références bibliographiques.
+    -   Citation dans un logiciel de traitement de texte (MS Word, LibreOffice, Google Docs).
+    -   Génération de listes des références citées dans un texte.
+-   Nombreux logiciels disponibles (voir [liste sur Wikipédia](https://fr.wikipedia.org/wiki/Logiciel_de_gestion_bibliographique))
+
+## Zotero
+
+-   Logiciel gratuit et largement utilisé
+-   Téléchargement : <https://www.zotero.org/download/>
+-   Interface graphique :
+
+::: fragment
+![](figs/zotero_interface.png)
+:::
+
+-   En haut : barre de menus qui permet d'accéder à différentes commandes
+-   Panneau de gauche : panneau de navigation dans la bibliothèque
+-   Panneau du milieu : liste de références
+-   Panneau de droite : détail de la référence sélectionnée
+
+## Installation du connecteur Zotero
+
+-   Permet d'importer des références depuis le navigateur internet (par exemple lorsqu'on est sur la page d'un article de journal scientifique)
+-   Aller dans *Outils / Installer le Connecteur Zotero*
+-   Une page semblable à la page ci-dessous s'ouvre :
+
+::: fragment
+![](figs/zotero_connecteur.png){fig-align="center" height="300px"}
+:::
+
+-   Cliquez sur *Install*.
+
+## Installation du connecteur Zotero
+
+-   Le connecteur doit maintenant apparaître dans votre navigateur.
+
+::: fragment
+![](figs/zotero_connecteur_import.png){fig-align="center" height="400px"}
+:::
+
+## Utilisation du connecteur Zotero
+
+-   Lorsque vous cliquez sur le bouton du connecteur, le cadre ci-dessous apparaît:
+
+::: fragment
+![](figs/zotero_import_ioannidis.png){fig-align="center" height="100px"}
+:::
+
+-   Vous pouvez vérifier dans Zotero que la référence a bien été importée :
+
+::: fragment
+![](figs/zotero_import_verif.png){fig-align="center" height="250px"}
+:::
+
+## Saisie manuelle de références dans Zotero
+
+::: nonincremental
+-   Cliquer sur le + vert au-dessous de la barre de menu
+-   Sélectionner le type de référence
+
+![](figs/zotero_import_manuel.png){fig-align="center" height="250px"}
+
+-   Renseigner les différents champs
+:::
+
+## Import d'une liste de références existante dans Zotero
+
+::: nonincremental
+-   Utiliser le fichier exporté plus tôt depuis PubMed
+-   Cliquer sur *Fichier / Importer*
+
+![](figs/zotero_import_liste_refs.png){fig-align="center" height="250px"}
+:::
+
+## Import d'une liste de références existante dans Zotero
+
+::: nonincremental
+-   Sélectionner la première modalité d'import.
+
+![](figs/zotero_import_liste_fichier.png){fig-align="center" height="200px"}
+
+-   Sélectionner votre fichier
+
+![](figs/zotero_import_liste_fichier_1.png){fig-align="center" height="150px"}
+:::
+
+## Import d'une liste de références existante dans Zotero
+
+::: nonincremental
+-   Sélectionner la première possibilité
+
+![](figs/zotero_import_liste_fichier_2.png){fig-align="center" height="400px"}
+:::
+
+## Import d'une liste de références existante dans Zotero
+
+::: nonincremental
+-   Vérifier que les références ont bien été importées dans Zotero
+
+![](figs/zotero_import_liste_fichier_3.png){fig-align="center" height="300px"}
+:::
+
+## Citer des documents dans MS Word avec Zotero
+
+::: nonincremental
+-   L'installation de Zotero s'accompagne de l'ajout d'un onglet Zotero dans MS Word
+
+![](figs/zotero_onlget_word.png){fig-align="center" height="150px"}
+:::
+
+## Citer des documents dans MS Word avec Zotero
+
+::: nonincremental
+-   Placer le curseur à l'endroit du texte où on veut insérer la citation
+-   Cliquer sur *Add/Edit Citation* dans l'onglet Zotero de MS Word
+-   Choisir un style bibliographique
+-   Entrer des mots-clés en lien avec la référence souhaitée
+-   Sélectionner la référence souhaitée
+-   La citation doit maintenant apparaître dans le texte
+
+![](figs/zotero_citation.png){fig-align="center" height="250px"}
+:::
+
+## Générer une liste des références citées dans MS Word avec Zotero
+
+::: nonincremental
+-   Dans l'onglet Zotero de MS Word, cliquer sur *Add/Edit Bibliography*
+
+-   Il est possible de changer le style de citation/liste, en cliquant sur *Document Preferences*
+:::
+
+## Utilisation de Zotero dans des logiciels autres que MS Word
+
+::: nonincremental
+-   Zotero fonctionne selon les mêmes principes dans d'autres logiciels :
+    -   [LibreOffice](https://www.zotero.org/support/libreoffice_writer_plugin_usage)
+    -   [Google Docs](https://www.zotero.org/support/google_docs)
+:::
+
+-   Il est possible d'avoir des librairies Zotero de groupe
+    -   Permet de partager des références lors de travaux de groupes
+    -   Facilite la rédaction de Google Docs à plusieurs
+    -   Voir la documentation : <https://www.zotero.org/support/groups>
+
+# Merci pour votre attention !{background-image="figs/cow_scientist_black_and_white.png" background-size="600px" style="text-align: center;" background-opacity="0.08"}
+
+
+## Pour aller plus loin
+
+- Document en ligne **Introduction à la médecine factuelle**: <https://aurmad.github.io/medecine_factuelle/etude_types.html>
+- Ressources sur l'EBVM du Royal College of Veterinary Surgeons (GB) : <https://knowledge.rcvs.org.uk/evidence-based-veterinary-medicine/ebvm-learning-and-resources/>
