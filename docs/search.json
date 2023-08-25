@@ -1,0 +1,317 @@
+[
+  {
+    "objectID": "td_EBVM.html#a-propos",
+    "href": "td_EBVM.html#a-propos",
+    "title": "Outils et méthodes pour la médecine factuelle",
+    "section": "A propos",
+    "text": "A propos\nCe document constitue le support d’une séance de travaux dirigés à destination des étudiants vétérinaires de 5\\(^{ème}\\) année d’Oniris.\nDes informations complémentaires sont disponibles dans le document intitulé Introduction à la médecine factuelle rédigé avec Raphaël Guatteo et disponible à l’adresse suivante : https://aurmad.github.io/medecine_factuelle/."
+  },
+  {
+    "objectID": "td_EBVM.html#objectifs-pédagogiques",
+    "href": "td_EBVM.html#objectifs-pédagogiques",
+    "title": "Outils et méthodes pour la médecine factuelle",
+    "section": "Objectifs pédagogiques",
+    "text": "Objectifs pédagogiques\n\nA la fin de cette séance, vous devez être capable de :\n\nDonner une définition de la médecine factuelle\nFormuler une question en utilisant l’acronyme PICO\nConnaître les bases de données principales pour l’identification des ressources bibliographiques pertinentes\nEffectuer une recherche dans PubMed\nEvaluer la qualité des sources bibliographiques trouvées\nStocker des références bibliographiques dans un logiciel des gestion bibliographique\nCiter des références bibliographiques dans un logiciel de traitement de texte"
+  },
+  {
+    "objectID": "td_EBVM.html#quest-ce-que-la-médecine-factuelle",
+    "href": "td_EBVM.html#quest-ce-que-la-médecine-factuelle",
+    "title": "Outils et méthodes pour la médecine factuelle",
+    "section": "Qu’est ce que la médecine factuelle ?",
+    "text": "Qu’est ce que la médecine factuelle ?\n\nDémarche consistant à incorporer à la pratique clinique les meilleures connaissances disponibles afin de prendre, à date, les meilleures décisions (notamment thérapeutiques) possibles sur la base des dernières avancées scientifiques.\nDéfinition la plus fréquemment citée donnée par Sackett et al.1 :\n\nEvidence-based medicine […] is the conscientious, explicit and judicious use of current best evidence in making decisions about the care of individual patients.\n\nSynonymes : médecine basée sur les preuves, médecine fondée sur les preuves\nEn anglais : evidence-based veterinary medicine (EBVM)\n\nSackett, D. L., W. M. C. Rosenberg, J. A. M. Gray, R. B. Haynes, and W. S. Richardson. 1996. “Evidence Based Medicine: What It Is and What It Isn’t.” BMJ 312: 71–72. https://doi.org/10.1136/bmj.312.7023.71."
+  },
+  {
+    "objectID": "td_EBVM.html#les-5-étapes-de-la-démarche-ebvm",
+    "href": "td_EBVM.html#les-5-étapes-de-la-démarche-ebvm",
+    "title": "Outils et méthodes pour la médecine factuelle",
+    "section": "Les 5 étapes de la démarche EBVM",
+    "text": "Les 5 étapes de la démarche EBVM\n\nFormuler une question précise\nTrouver les meilleures données / informations pour répondre à cette question\nEvaluer les information trouvées\nIntégrer le résultat de l’évaluation à sa pratique\nEvaluer la performance\n\n\nNous n’aborderons ici que les étapes 1 à 3."
+  },
+  {
+    "objectID": "td_EBVM.html#formuler-une-question-pico",
+    "href": "td_EBVM.html#formuler-une-question-pico",
+    "title": "Outils et méthodes pour la médecine factuelle",
+    "section": "Formuler une question PICO",
+    "text": "Formuler une question PICO\n\nObjectif : formuler une question précise qui sera utilisée pour trouver les informations pertinentes, notamment dans les bases de données scientifiques\nPour la construction de la question, utilisation de l’acronyme PICO :\n\nP : Patient ou Population\nI : Intervention\nC : Comparaison\nO : Outcome"
+  },
+  {
+    "objectID": "td_EBVM.html#section",
+    "href": "td_EBVM.html#section",
+    "title": "Outils et méthodes pour la médecine factuelle",
+    "section": "",
+    "text": "A vous de jouer !\n\n\n\nRendez-vous sur le site BestBETs for Vets\nSélectionnez un BET\nRegardez comment le scénario clinique a été traduit en PICO"
+  },
+  {
+    "objectID": "td_EBVM.html#section-1",
+    "href": "td_EBVM.html#section-1",
+    "title": "Outils et méthodes pour la médecine factuelle",
+    "section": "",
+    "text": "A vous de jouer !\n\n\n\nConstruisez une question PICO à partir d’une situation rencontrée en stage ou en clinique."
+  },
+  {
+    "objectID": "td_EBVM.html#bases-de-données",
+    "href": "td_EBVM.html#bases-de-données",
+    "title": "Outils et méthodes pour la médecine factuelle",
+    "section": "Bases de données",
+    "text": "Bases de données\n\nRecherche de documents dans des bases de données scientifiques\n\nBases de données : agrègent des documents (articles, rapports, autres) publiés par diverses sources (journaux, universités, organisations officielles)\nSources indexées différentes selon la base de données\nAccès parfois payant"
+  },
+  {
+    "objectID": "td_EBVM.html#pubmed",
+    "href": "td_EBVM.html#pubmed",
+    "title": "Outils et méthodes pour la médecine factuelle",
+    "section": "PubMed",
+    "text": "PubMed\n\nhttps://pubmed.ncbi.nlm.nih.gov/\nArticles et ouvrages en sciences de la vie et médecine\nInterrogation gratuite\nPossibilité de construire des requêtes structurées\nVoir https://pico.vet/ pour la traduction de PICO en requête PubMed"
+  },
+  {
+    "objectID": "td_EBVM.html#google-scholar",
+    "href": "td_EBVM.html#google-scholar",
+    "title": "Outils et méthodes pour la médecine factuelle",
+    "section": "Google Scholar",
+    "text": "Google Scholar\n\nhttps://scholar.google.com/\nVaste répertoire de sources référencées\nInterrogation gratuite\nPossibilité limitée de construire des requêtes structurées\nRésultats fournis variables selon localisation, historique de recherche…"
+  },
+  {
+    "objectID": "td_EBVM.html#autres-bases-de-données",
+    "href": "td_EBVM.html#autres-bases-de-données",
+    "title": "Outils et méthodes pour la médecine factuelle",
+    "section": "Autres bases de données",
+    "text": "Autres bases de données\n\nWeb of Science : l’une des bases de données les plus complètes. Appartient à Clarivate.\nScience Direct : base de données et accès aux ressources de l’éditeur Elsevier.\nScopus : base de données de l’éditeur Elsevier. Inclut plus de ressources que Science Direct, notamment des documents non édités par Elsevier.\nCAB abstracts : très complète en ce qui concerne les sciences vétérinaires. Accès payant.\n\n\n\n\n\n\n\n\n\nNote\n\n\n\nProfitez de votre statut d’étudiant à Oniris pour explorer les différentes bases de données disponibles et consulter les ressources auxquelles l’école est abonnée.\nhttps://www.oniris-nantes.fr/accueil/centre-de-documentation/ressources-documentaires/"
+  },
+  {
+    "objectID": "td_EBVM.html#trouver-des-informations-avec-pubmed",
+    "href": "td_EBVM.html#trouver-des-informations-avec-pubmed",
+    "title": "Outils et méthodes pour la médecine factuelle",
+    "section": "Trouver des informations avec PubMed",
+    "text": "Trouver des informations avec PubMed\n\n\nSaisir une requête avec les mots-clés souhaités dans la barre de recherche puis cliquer sur Search"
+  },
+  {
+    "objectID": "td_EBVM.html#trouver-des-informations-avec-pubmed-1",
+    "href": "td_EBVM.html#trouver-des-informations-avec-pubmed-1",
+    "title": "Outils et méthodes pour la médecine factuelle",
+    "section": "Trouver des informations avec PubMed",
+    "text": "Trouver des informations avec PubMed\n\n\nLa requête retourne un certain nombre d’articles sous la forme suivante :\n\n\n\n\nEn cliquant sur advanced, il est possible de voir comment PubMed a interprété la requête."
+  },
+  {
+    "objectID": "td_EBVM.html#trouver-des-informations-avec-pubmed-2",
+    "href": "td_EBVM.html#trouver-des-informations-avec-pubmed-2",
+    "title": "Outils et méthodes pour la médecine factuelle",
+    "section": "Trouver des informations avec PubMed",
+    "text": "Trouver des informations avec PubMed\n\n\n\n\n\n\n\n\nCette requête peut être utilisée comme base pour affiner votre recherche."
+  },
+  {
+    "objectID": "td_EBVM.html#section-2",
+    "href": "td_EBVM.html#section-2",
+    "title": "Outils et méthodes pour la médecine factuelle",
+    "section": "",
+    "text": "A vous de jouer !\n\n\n\nDans la barre de recherche simple, effectuez une recherche PubMed à partir de la question PICO construite plus haut\nDans la fenêtre de résultats, cliquez sur Advanced\nRegardez comment PubMed combine différents mots-clés\n\nA quoi servent les booléens AND, OR et NOT ?\nComment sont placées les parenthèses ?"
+  },
+  {
+    "objectID": "td_EBVM.html#exporter-les-résultats-de-recherche-pubmed",
+    "href": "td_EBVM.html#exporter-les-résultats-de-recherche-pubmed",
+    "title": "Outils et méthodes pour la médecine factuelle",
+    "section": "Exporter les résultats de recherche PubMed",
+    "text": "Exporter les résultats de recherche PubMed\n\n\nIl est possible d’exporter les résultats retournés par PubMed pour une utilisation ultérieure.\n\nCliquer sur Send to puis, dans la liste déroulante, sur Citation manager."
+  },
+  {
+    "objectID": "td_EBVM.html#section-3",
+    "href": "td_EBVM.html#section-3",
+    "title": "Outils et méthodes pour la médecine factuelle",
+    "section": "",
+    "text": "A vous de jouer !\n\n\n\nExportez la liste des références que vous avez trouvées.\nVérifiez qu’à l’issue de cette opération, un fichier texte contenant vos références a été téléchargé sur votre ordinateur."
+  },
+  {
+    "objectID": "td_EBVM.html#un-exemple",
+    "href": "td_EBVM.html#un-exemple",
+    "title": "Outils et méthodes pour la médecine factuelle",
+    "section": "Un exemple",
+    "text": "Un exemple\n\n\n\nConsidérez l’article suivant par Swinkels et al. (2016)"
+  },
+  {
+    "objectID": "td_EBVM.html#section-4",
+    "href": "td_EBVM.html#section-4",
+    "title": "Outils et méthodes pour la médecine factuelle",
+    "section": "",
+    "text": "A vous de jouer !\n\n\n\nDans quel journal cet article a-t-il été publié ?\nConnaissez-vous le processus ayant abouti à la publication ?"
+  },
+  {
+    "objectID": "td_EBVM.html#quest-ce-que-le-peer-review",
+    "href": "td_EBVM.html#quest-ce-que-le-peer-review",
+    "title": "Outils et méthodes pour la médecine factuelle",
+    "section": "Qu’est-ce que le peer-review ?",
+    "text": "Qu’est-ce que le peer-review ?"
+  },
+  {
+    "objectID": "td_EBVM.html#quest-ce-que-le-peer-review-1",
+    "href": "td_EBVM.html#quest-ce-que-le-peer-review-1",
+    "title": "Outils et méthodes pour la médecine factuelle",
+    "section": "Qu’est-ce que le peer-review ?",
+    "text": "Qu’est-ce que le peer-review ?\n\npeer-review = évaluation par les pairs1\n\nÉvaluation des manuscrits par des experts anonymes sélectionnés par un des éditeurs du journal\nHabituellement 2-3 experts par manuscrit\nRédaction d’un rapport\nSynthèse des rapports et décision par l’éditeur : rejet / révision mineure / révision majeure / acceptation\nHabituellement plusieurs allers-retours entre auteurs et relecteurs jusqu’à acceptation ou rejet\n\n\nPlus de détails ici."
+  },
+  {
+    "objectID": "td_EBVM.html#evaluation-du-journal",
+    "href": "td_EBVM.html#evaluation-du-journal",
+    "title": "Outils et méthodes pour la médecine factuelle",
+    "section": "Evaluation du journal",
+    "text": "Evaluation du journal\n\n\n\n\n\n\n\nA vous de jouer !\n\n\n\nLe Journal of Dairy Science est-il un bon journal ?\nComment savoir ?"
+  },
+  {
+    "objectID": "td_EBVM.html#evaluations-bibliométriques",
+    "href": "td_EBVM.html#evaluations-bibliométriques",
+    "title": "Outils et méthodes pour la médecine factuelle",
+    "section": "Evaluations bibliométriques",
+    "text": "Evaluations bibliométriques\n\nÉvaluation des journaux, auteurs et articles basée principalement sur le nombre de citations engrangées par les articles.\n\nLe nombre de citations dépend notamment de quelles sources (liste de journaux, autre) sont comptabilisées, et donc du producteur de l’évaluation\nIndicatif, à prendre avec précaution"
+  },
+  {
+    "objectID": "td_EBVM.html#impact-factor",
+    "href": "td_EBVM.html#impact-factor",
+    "title": "Outils et méthodes pour la médecine factuelle",
+    "section": "Impact factor",
+    "text": "Impact factor\n\n\n\nFacteur d’impact (impact factor en anglais) = mesure la plus utilisée de la qualité des journaux\n\n\\[\nIF_a = \\frac{Citations_a}{Publications_{a-2} + Publications_{a-1}}\n\\]\n\nOù \\(IF_a\\) est le facteur d’impact pour l’année \\(a\\), \\(Citations\\) est le nombre de citations dans les journaux pris en compte pour l’évaluation pour l’année \\(a\\) et \\(Publications\\) est le nombre d’articles publiés dans la revue évaluée pour les années \\(a-1\\) et \\(a-2\\).\n\n\n\n\n\n\nFacteurs d’impact calculés par Clarivate\nParfois critiqué : ne dépend pas uniquement de la qualité des publications, compétition des journaux pour l’impact factor…\nNe doit pas être l’unique facteur pris en compte lorsqu’on évalue un article"
+  },
+  {
+    "objectID": "td_EBVM.html#nombre-de-citations-dun-article",
+    "href": "td_EBVM.html#nombre-de-citations-dun-article",
+    "title": "Outils et méthodes pour la médecine factuelle",
+    "section": "Nombre de citations d’un article",
+    "text": "Nombre de citations d’un article\n\n\n\nPour un article, on peut regarder le nombre de citations\n\n\n\nAttention au nombre d’années depuis la publication !\nDépend des sources de citations prises en compte, de la thématique"
+  },
+  {
+    "objectID": "td_EBVM.html#h-index",
+    "href": "td_EBVM.html#h-index",
+    "title": "Outils et méthodes pour la médecine factuelle",
+    "section": "h-index",
+    "text": "h-index\n\n\n\nPour un auteur, on peut regarder le h-index\n\n\n\n\n\nCet auteur a un h-index de 103 (extrêmement élevé)\n\nLorsqu’on range les articles qu’il a publiés par ordre décroissant du nombre de citations, le 103\\(^{ème}\\) article est cité au moins 103 fois"
+  },
+  {
+    "objectID": "td_EBVM.html#types-détude",
+    "href": "td_EBVM.html#types-détude",
+    "title": "Outils et méthodes pour la médecine factuelle",
+    "section": "Types d’étude",
+    "text": "Types d’étude\n\nProuver qu’un traitement a un effet préventif ou curatif sur une maladie requiert la mise en évidence d’un lien de causalité entre traitement et évolution de la maladie\nLes méthodes statistiques quantifient des forces d’association, sans garantie que ces associations soient causales\nCertaines types d’études sont plus favorables à l’identification de relations causales que d’autres\n\n\n\n\n\n\n\n\nA vous de jouer !\n\n\n\nQuels type d’études connaissez-vous ?\nQuels sont les facteurs favorables à l’identification de relations causales ?"
+  },
+  {
+    "objectID": "td_EBVM.html#types-détude-1",
+    "href": "td_EBVM.html#types-détude-1",
+    "title": "Outils et méthodes pour la médecine factuelle",
+    "section": "Types d’étude",
+    "text": "Types d’étude\n\n\n\nClassification des types d’études proposé par Dohoo, Martin et Stryhn1 :\n\n\n\n\n\n\n\n\n\nFacteurs favorables à l’identification de relations causales :\n\nEtudes expérimentales/d’intervention &gt; études observationnelles\nComparabilité des groupes traités et témoins \\(\\rightarrow\\) randomisation\n\n\nDohoo, Ian, Wayne Martin, and Henrik Stryhn. 2009. “Introduction to Observational Studies.” In Veterinary Epidemiologic Research, 2nd edition. VER Inc. Version électronique du livre disponible ici."
+  },
+  {
+    "objectID": "td_EBVM.html#statistiques",
+    "href": "td_EBVM.html#statistiques",
+    "title": "Outils et méthodes pour la médecine factuelle",
+    "section": "Statistiques",
+    "text": "Statistiques\n\n\n\nExemple de résultats d’une étude d’évaluation d’un traitement chez des animaux initialement malades\n\n\n\n\n\nGuéris\nNon-guéris\n\n\n\n\nTraitement A\n42\n18\n\n\nTraitement B\n20\n20\n\n\n\n\n\n\n\n\n\n\n\n\nA vous de jouer !\n\n\n\nExiste-t-il une association statistique entre le traitement reçu et la guérison ?\n\nQuel test statistique ?\nQuelle hypothèse ?\nComment faire ?"
+  },
+  {
+    "objectID": "td_EBVM.html#statistiques-1",
+    "href": "td_EBVM.html#statistiques-1",
+    "title": "Outils et méthodes pour la médecine factuelle",
+    "section": "Statistiques",
+    "text": "Statistiques\n\n\n\nPrincipe des tests d’hypothèse :\n\n\n\n\n\n\n\n\n\np-value : probabilité d’observer les données si l’hypothèse nulle était vraie\n\nAvec un \\(\\alpha\\) de 5% : en l’absence d’association (si l’hypothèse nulle est vraie), on conclut à l’existence d’une association (faux positif) dans 5 cas sur 100\n\npuissance : capacité à détecter les associations quand elles existent\n\nDépend de l’importance de l’effet et de la taille d’échantillon"
+  },
+  {
+    "objectID": "td_EBVM.html#logiciels-de-gestion-bibliographique",
+    "href": "td_EBVM.html#logiciels-de-gestion-bibliographique",
+    "title": "Outils et méthodes pour la médecine factuelle",
+    "section": "Logiciels de gestion bibliographique",
+    "text": "Logiciels de gestion bibliographique\n\nFonctions :\n\nStockage et consultation de références bibliographiques.\nCitation dans un logiciel de traitement de texte (MS Word, LibreOffice, Google Docs).\nGénération de listes des références citées dans un texte.\n\nNombreux logiciels disponibles (voir liste sur Wikipédia)"
+  },
+  {
+    "objectID": "td_EBVM.html#zotero",
+    "href": "td_EBVM.html#zotero",
+    "title": "Outils et méthodes pour la médecine factuelle",
+    "section": "Zotero",
+    "text": "Zotero\n\nLogiciel gratuit et largement utilisé\nTéléchargement : https://www.zotero.org/download/\nInterface graphique :\n\n\n\n\n\nEn haut : barre de menus qui permet d’accéder à différentes commandes\nPanneau de gauche : panneau de navigation dans la bibliothèque\nPanneau du milieu : liste de références\nPanneau de droite : détail de la référence sélectionnée"
+  },
+  {
+    "objectID": "td_EBVM.html#installation-du-connecteur-zotero",
+    "href": "td_EBVM.html#installation-du-connecteur-zotero",
+    "title": "Outils et méthodes pour la médecine factuelle",
+    "section": "Installation du connecteur Zotero",
+    "text": "Installation du connecteur Zotero\n\nPermet d’importer des références depuis le navigateur internet (par exemple lorsqu’on est sur la page d’un article de journal scientifique)\nAller dans Outils / Installer le Connecteur Zotero\nUne page semblable à la page ci-dessous s’ouvre :\n\n\n\n\n\n\n\n\n\nCliquez sur Install."
+  },
+  {
+    "objectID": "td_EBVM.html#installation-du-connecteur-zotero-1",
+    "href": "td_EBVM.html#installation-du-connecteur-zotero-1",
+    "title": "Outils et méthodes pour la médecine factuelle",
+    "section": "Installation du connecteur Zotero",
+    "text": "Installation du connecteur Zotero\n\nLe connecteur doit maintenant apparaître dans votre navigateur."
+  },
+  {
+    "objectID": "td_EBVM.html#utilisation-du-connecteur-zotero",
+    "href": "td_EBVM.html#utilisation-du-connecteur-zotero",
+    "title": "Outils et méthodes pour la médecine factuelle",
+    "section": "Utilisation du connecteur Zotero",
+    "text": "Utilisation du connecteur Zotero\n\nLorsque vous cliquez sur le bouton du connecteur, le cadre ci-dessous apparaît:\n\n\n\n\n\n\n\n\n\nVous pouvez vérifier dans Zotero que la référence a bien été importée :"
+  },
+  {
+    "objectID": "td_EBVM.html#saisie-manuelle-de-références-dans-zotero",
+    "href": "td_EBVM.html#saisie-manuelle-de-références-dans-zotero",
+    "title": "Outils et méthodes pour la médecine factuelle",
+    "section": "Saisie manuelle de références dans Zotero",
+    "text": "Saisie manuelle de références dans Zotero\n\n\nCliquer sur le + vert au-dessous de la barre de menu\nSélectionner le type de référence\n\n\n\n\n\n\n\nRenseigner les différents champs"
+  },
+  {
+    "objectID": "td_EBVM.html#import-dune-liste-de-références-existante-dans-zotero",
+    "href": "td_EBVM.html#import-dune-liste-de-références-existante-dans-zotero",
+    "title": "Outils et méthodes pour la médecine factuelle",
+    "section": "Import d’une liste de références existante dans Zotero",
+    "text": "Import d’une liste de références existante dans Zotero\n\n\nUtiliser le fichier exporté plus tôt depuis PubMed\nCliquer sur Fichier / Importer"
+  },
+  {
+    "objectID": "td_EBVM.html#import-dune-liste-de-références-existante-dans-zotero-1",
+    "href": "td_EBVM.html#import-dune-liste-de-références-existante-dans-zotero-1",
+    "title": "Outils et méthodes pour la médecine factuelle",
+    "section": "Import d’une liste de références existante dans Zotero",
+    "text": "Import d’une liste de références existante dans Zotero\n\n\nSélectionner la première modalité d’import.\n\n\n\n\n\n\n\nSélectionner votre fichier"
+  },
+  {
+    "objectID": "td_EBVM.html#import-dune-liste-de-références-existante-dans-zotero-2",
+    "href": "td_EBVM.html#import-dune-liste-de-références-existante-dans-zotero-2",
+    "title": "Outils et méthodes pour la médecine factuelle",
+    "section": "Import d’une liste de références existante dans Zotero",
+    "text": "Import d’une liste de références existante dans Zotero\n\n\nSélectionner la première possibilité"
+  },
+  {
+    "objectID": "td_EBVM.html#import-dune-liste-de-références-existante-dans-zotero-3",
+    "href": "td_EBVM.html#import-dune-liste-de-références-existante-dans-zotero-3",
+    "title": "Outils et méthodes pour la médecine factuelle",
+    "section": "Import d’une liste de références existante dans Zotero",
+    "text": "Import d’une liste de références existante dans Zotero\n\n\nVérifier que les références ont bien été importées dans Zotero"
+  },
+  {
+    "objectID": "td_EBVM.html#citer-des-documents-dans-ms-word-avec-zotero",
+    "href": "td_EBVM.html#citer-des-documents-dans-ms-word-avec-zotero",
+    "title": "Outils et méthodes pour la médecine factuelle",
+    "section": "Citer des documents dans MS Word avec Zotero",
+    "text": "Citer des documents dans MS Word avec Zotero\n\n\nL’installation de Zotero s’accompagne de l’ajout d’un onglet Zotero dans MS Word"
+  },
+  {
+    "objectID": "td_EBVM.html#citer-des-documents-dans-ms-word-avec-zotero-1",
+    "href": "td_EBVM.html#citer-des-documents-dans-ms-word-avec-zotero-1",
+    "title": "Outils et méthodes pour la médecine factuelle",
+    "section": "Citer des documents dans MS Word avec Zotero",
+    "text": "Citer des documents dans MS Word avec Zotero\n\n\nPlacer le curseur à l’endroit du texte où on veut insérer la citation\nCliquer sur Add/Edit Citation dans l’onglet Zotero de MS Word\nChoisir un style bibliographique\nEntrer des mots-clés en lien avec la référence souhaitée\nSélectionner la référence souhaitée\nLa citation doit maintenant apparaître dans le texte"
+  },
+  {
+    "objectID": "td_EBVM.html#générer-une-liste-des-références-citées-dans-ms-word-avec-zotero",
+    "href": "td_EBVM.html#générer-une-liste-des-références-citées-dans-ms-word-avec-zotero",
+    "title": "Outils et méthodes pour la médecine factuelle",
+    "section": "Générer une liste des références citées dans MS Word avec Zotero",
+    "text": "Générer une liste des références citées dans MS Word avec Zotero\n\n\nDans l’onglet Zotero de MS Word, cliquer sur Add/Edit Bibliography\nIl est possible de changer le style de citation/liste, en cliquant sur Document Preferences"
+  },
+  {
+    "objectID": "td_EBVM.html#utilisation-de-zotero-dans-des-logiciels-autres-que-ms-word",
+    "href": "td_EBVM.html#utilisation-de-zotero-dans-des-logiciels-autres-que-ms-word",
+    "title": "Outils et méthodes pour la médecine factuelle",
+    "section": "Utilisation de Zotero dans des logiciels autres que MS Word",
+    "text": "Utilisation de Zotero dans des logiciels autres que MS Word\n\n\nZotero fonctionne selon les mêmes principes dans d’autres logiciels :\n\nLibreOffice\nGoogle Docs\n\n\n\n\nIl est possible d’avoir des librairies Zotero de groupe\n\nPermet de partager des références lors de travaux de groupes\nFacilite la rédaction de Google Docs à plusieurs\nVoir la documentation : https://www.zotero.org/support/groups"
+  },
+  {
+    "objectID": "td_EBVM.html#pour-aller-plus-loin",
+    "href": "td_EBVM.html#pour-aller-plus-loin",
+    "title": "Outils et méthodes pour la médecine factuelle",
+    "section": "Pour aller plus loin",
+    "text": "Pour aller plus loin\n\nDocument en ligne Introduction à la médecine factuelle: https://aurmad.github.io/medecine_factuelle/etude_types.html\nRessources sur l’EBVM du Royal College of Veterinary Surgeons (GB) : https://knowledge.rcvs.org.uk/evidence-based-veterinary-medicine/ebvm-learning-and-resources/"
+  }
+]
